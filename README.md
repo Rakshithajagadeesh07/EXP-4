@@ -9,11 +9,8 @@ To build a decentralized lending protocol where users can deposit assets to earn
 ### Step 1: 
 
 Setup Lending and Borrowing Mechanism Users deposit ETH into the contract as liquidity.
-
 Depositors receive interest based on their deposits.
-
 Borrowers can borrow ETH but must provide collateral (e.g., 150% of the borrowed amount).
-
 Interest on borrowed funds is calculated dynamically based on utilization rate.
 
 ### Step 2: 
